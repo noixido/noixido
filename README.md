@@ -1,7 +1,6 @@
-![ini adalah banner dari profilenya noixido!](https://github.com/noixido/noixido/blob/main/resource/images/banner.png)
-<br>
+<h1 align="center">Hi, I'm noixido! 👋</h1>
 
-# Hi, I'm noixido! 👋
+![ini adalah banner dari profilenya noixido!](https://github.com/noixido/noixido/blob/main/resource/images/banner.png)
 
 You've probably never heard of me, so, lemme introduce myself. My name is Muhammad Yusuf Syahidin but some of my friends call me noixido or kido for short. 
 
