@@ -6,19 +6,12 @@ You've probably never heard of me, so, lemme introduce myself. My name is Muhamm
 
 ## 🚀 About Me
 
-A short summary about me, I'm a graduate of bachelor's degree in informatics engineering at TEDC Bandung Polytechnic in 2023 with a Cum Laude GPA of 3.81. I have interest in Web Programming, especially Back-end Web Programming.
+A short summary about me, I'm a graduate of bachelor's degree in informatics engineering at TEDC Bandung Polytechnic, Indonesia in 2023 with a Cum Laude GPA of 3.81. I have interest in Web Programming, especially Back-end and Fullstack Web Programming.
 
-Currently, i'm looking for a job as a Back-end Web Programmer, if you can find me one or if you have one, please let me know 😁.
+Currently, i'm looking for a job as a Fullstack Web Programmer, if you can find me one or if you have one, please let me know 😁.
 
-## 🛠 Skills
-- Javascript
-- HTML
-- CSS
-- PHP
-- Laravel
-- MariaDB
-- Mysql
-
-## 🔥 Find Me
-[Instagram](https://www.instagram.com/noixido)  
-[Twitter](https://www.twitter.com/noixido)  
+## 🛠 Some skills i have
+- Javascript        - Laravel
+- HTML              - PHP
+- CSS               - MySql
+- MariaDB           - Bootstrap
