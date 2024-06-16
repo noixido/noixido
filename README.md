@@ -11,7 +11,5 @@ A short summary about me, I'm a graduate of bachelor's degree in informatics eng
 Currently, i'm looking for a job as a Fullstack Web Programmer, if you can find me one or if you have one, please let me know 😁.
 
 ## 🛠 Some skills i have
-- Javascript        - Laravel
-- HTML              - PHP
-- CSS               - MySql
-- MariaDB           - Bootstrap
+
+`HTML` `CSS` `Javascript` `PHP` `Laravel` `Bootstrap` `MySql`
