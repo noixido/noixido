@@ -12,4 +12,6 @@ Currently, i'm looking for a job as a Fullstack Web Programmer, if you can find 
 
 ## 🛠 Some of skills i have
 
+![icons]([https://github.com/noixido/noixido/blob/main/resource/images/banner.png](https://img.shields.io/badge/Javascript%20-%20grey?style=flat-square&logo=javascript&logoColor=white&logoSize=auto&labelColor=yellow)
+
 `HTML` `CSS` `Javascript` `PHP` `Laravel` `Bootstrap` `MySql`
