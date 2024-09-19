@@ -6,9 +6,9 @@ You've probably never heard of me, so, lemme introduce myself. My name is Muhamm
 
 ## 🚀 About Me
 
-A short summary about me, I'm a graduate of bachelor's degree in informatics engineering at TEDC Bandung Polytechnic, Indonesia in 2023 with a Cum Laude GPA of 3.81. I have interest in Web Programming, especially Back-end and Fullstack Web Programming.
+A quick rundown 'bout me: I graduated with a Bachelor's in Informatics Engineering from TEDC Bandung Polytechnic, Indonesia, back in 2023, with a Cum Laude GPA of 3.81. I'm into Web Programming, especially Back-end and Fullstack stuff.
 
-Currently, i'm looking for a job as a Fullstack Web Programmer, if you can find me one or if you have one, please let me know 😁.
+Right now, I'm lookin' for a job as a Fullstack Web Developer. If ya know any openings or got one yourself, lemme know 😁.
 
 ## 🛠 Some of skills i have
 
