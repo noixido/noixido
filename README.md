@@ -2,7 +2,7 @@
 
 ![ini adalah banner dari profilenya noixido!](https://github.com/noixido/noixido/blob/main/resource/images/banner%20(1).png)
 
-You've probably never heard of me, so, lemme introduce myself. My name is Muhammad Yusuf Syahidin but some of my friends call me noixido or kido for short. 
+You've probably never heard of me, so, lemme introduce myself. My name is Muhammad Yusuf Syahidin but some of my friends call me noixido or kido for short. I was born in Indonesia and basically im an indonesian citizen... just a fun fact.
 
 ## 🚀 About Me
 
