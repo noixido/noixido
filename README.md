@@ -12,4 +12,4 @@ Right now, I'm lookin' for a job as a Fullstack Web Developer. If ya know any op
 
 ## 🛠 Some of skills i have
 
-`HTML` `CSS` `Javascript` `PHP` `Laravel` `Bootstrap` `MySql`
+`HTML` `CSS` `Javascript` `PHP` `Laravel` `Bootstrap` `ASP.NET` `Vue` `Tailwind CSS` `MySql` `PostgreSQL`
